@@ -320,6 +320,18 @@ xsecs["Zto2Q-2Jets_PTQQ-200"] = 71.56
 xsecs["Zto2Q-2Jets_PTQQ-400"] = 3.811
 xsecs["Zto2Q-2Jets_PTQQ-600"] = 0.5086
 
+# Add for 2024 W/Z+Jets, HT binning (LO)
+xsecs["Wto2Q-3Jets_Bin-HT-100to400"] = 16120.0
+xsecs["Wto2Q-3Jets_Bin-HT-400to800"] = 356.9
+xsecs["Wto2Q-3Jets_Bin-HT-800to1500"] = 29.52
+xsecs["Wto2Q-3Jets_Bin-HT-1500to2500"] = 1.825
+xsecs["Wto2Q-3Jets_Bin-HT-2500"] = 0.1158
+xsecs["Zto2Q-4Jets_Bin-HT-100to400"] = 6328.0
+xsecs["Zto2Q-4Jets_Bin-HT-400to800"] = 145.1
+xsecs["Zto2Q-4Jets_Bin-HT-800to1500"] = 12.9
+xsecs["Zto2Q-4Jets_Bin-HT-1500to2500"] = 0.8541
+xsecs["Zto2Q-4Jets_Bin-HT-2500"] = 0.05684
+
 
 xsecs["Zto2Q-2Jets_PTQQ-100to200_1J"] = 302.0
 xsecs["Zto2Q-2Jets_PTQQ-100to200_2J"] = 343.9
